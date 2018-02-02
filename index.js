@@ -64,4 +64,4 @@ bot.on('message',function(message){
 
 
 
-bot.login('NDA4NzAxODQyNDI0NTk0NDMz.DVT52A.RBfjvUQA8MxnNEHzhyQoi-0oCkQ')
+bot.login(process.env.TOKEN');
